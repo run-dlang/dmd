@@ -27,3 +27,5 @@ an email to walter@digitalmars.com with the statement:
 "I hereby assign copyright in my contributions to DMD to the D Language Foundation"
 
 and include your name and date.
+
+A small modification
